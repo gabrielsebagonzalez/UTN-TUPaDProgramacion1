@@ -1,9 +1,9 @@
-# Programacion1
+# 💻 Programación 1
 
 **Tecnicatura Universitaria en Programación**  
 📍 _Universidad Tecnológica Nacional_
 
-## ✨ Estudiante
+## 👨‍💻 Estudiante
 
 - **Nombre:** González, Gabriel Sebastián
 - **Comisión:** M2025-6
